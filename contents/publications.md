@@ -1,26 +1,12 @@
 #### Published
--  <strong>Longlong Li</strong>, Yipeng Zhang, Guanghui Wang and Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.
-  <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
+- <strong>Xu Zhang</strong>, Jin Xu and Cunquan Qu*. Priority individual identification for vaccination promotion through evolutionary game of mixed populations.
+  <strong>Expert Systems with Applications (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.eswa.2023.120884)
 
-- Haixia Hu., ..., <strong>Longlong Li (15/33)</strong>, ..., HangYin*. Revealing electron transport connectivity as an important factor influencing stability of organic solar cells.
-  <strong>Nature Communications (2025)</strong>. [[Paper]](https://www.nature.com/articles/s41467-025-60599-3)
+- Ming Zhang, <strong>Xu Zhang</strong>, Cunquan Qu*, Guanghui Wang and Xin Lu. The combination of social reward and punishment is conducive to the cooperation and heterogeneity of social relations.
+  <strong>Chaos: An Interdisciplinary Journal of Nonlinear Science (2022)</strong>. [[Paper]](https://doi.org/10.1063/5.0102483)
 
-- Yipeng Zhang, <strong>Longlong Li</strong>, and Kelin Xia*. Rhomboid Tiling for Geometric Graph Deep Learning.
-  <strong>International Conference on Machine Learning (ICML 2025)</strong>. [[Paper]](https://openreview.net/forum?id=lTZEAqL1R1)
+- Chenlu Ji, Mingang Gao*, <strong>Xu Zhang</strong>, Jiaxuan Li. A novel rescheduling algorithm for the airline recovery with flight priorities and airport capacity constraints.
+  <strong>Asia-Pacific Journal of Operational Research (2021)</strong>. [[Paper]](https://doi.org/10.1142/S021759592140025X)
 
-- Bingqing Han, Yipeng Zhang, <strong>Longlong Li</strong>, Xinqi Gong*, and Kelin Xia*. TopoQA:a topological deep learning-based approach for protein complex structure interface quality assessment.
-  <strong>Briefings in Bioinformatics (2025)</strong>. [[Paper]](https://academic.oup.com/bib/article/26/2/bbaf083/8068116?login=false)
-
-- <strong>Longlong Li</strong>, Cunquan Qu*, Guanghui Wang. Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing.
-  <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2505.15015?)
-
-- <strong>Longlong Li</strong>, Cunquan Qu*, Guanghui Wang. TGT: A Temporal Gating Transformer for Smartphone App Usage Prediction.
-  <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.16957)
-  
-- <strong>Longlong Li</strong>, Xiang Liu, Yuguang Wang, Guanghui Wang and Kelin Xia*. Path Complex Neural Network for Molecular Property Prediction.
-  <strong>International Conference on Machine Learning (ICML 2024 GRaM Workshop)</strong>. [[Paper]](https://openreview.net/forum?id=FlnGcMp6FL)
-
-- <strong>Longlong Li</strong>, Hu Chen, Ping Li, Jie Han, Guanghui Wang*, Gong Zhang*. The K-Core Decomposition Algorithm Under the Framework of GraphBLAS.
-  <strong>IEEE Conference on High Performance Extreme Computing (HPEC 2021)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9622845)
 
 
