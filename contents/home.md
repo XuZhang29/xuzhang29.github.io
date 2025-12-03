@@ -1,10 +1,10 @@
 He is currently a Research Fellow at the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore.
 
 ### Google Scholar
-[Google Scholar Profile - Longlong Li](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
+[Google Scholar Profile - Longlong Li](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
 
 ### Contact
-- **Email:** longlee[at]mail.sdu.edu.cn
+- **Email:** xuzhang[at]mail.sdu.edu.cn
 
 ### Education
 - Shandong University, China  
