@@ -1,4 +1,4 @@
-She is currently a postdoctoral researcher at the Data Science Institute, Shandong University, China.
+I am currently a postdoctoral researcher at the Data Science Institute, Shandong University, China.
 
 ### Google Scholar
 [Google Scholar Profile - Xu Zhang](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
