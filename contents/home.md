@@ -25,4 +25,4 @@ She is currently a postdoctoral researcher at the Institute of Data Science, Sha
 
 ### Research Interests
 
-Complex networks; natural language processing; computational social science; AI for Science
+Complex Networks; Natural Language Processing; Computational Social Science; AI for Science
