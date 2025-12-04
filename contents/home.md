@@ -1,4 +1,4 @@
-He is currently a Research Fellow at the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore.
+She is currently a postdoctoral researcher at the Institute of Data Science, Shandong University, China.
 
 ### Google Scholar
 [Google Scholar Profile - Xu Zhang](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
@@ -7,20 +7,22 @@ He is currently a Research Fellow at the School of Physical and Mathematical Sci
 - **Email:** xuzhang[at]mail.sdu.edu.cn
 
 ### Education
-- Shandong University, China  
-  Ph.D. Candidate in Data Science
-  Sept. 2019 – Dec. 2025 
-  Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
-
-- Nanyang Technological University (NTU), Singapore
-  School of Physical and Mathematical Sciences (SPMS)
-  Visiting Student
-  Oct. 2023 – Oct. 2025 
-  Advisor: Prof. Kelin Xia [[Homepage]](https://personal.ntu.edu.sg/XIAKELIN/)
 
 - Shandong University, China  
-  B.Sc. in Mathematics and Applied Mathematics
-  ept. 2015 – Jun. 2019
-  
+  Ph.D. in Data Science (Integrated Master–Ph.D. Program, Doctoral Stage)  
+  Sept. 2022 – Dec. 2025  
+  Advisor: Prof. Jianya Liu  
+
+- Shandong University, China  
+  M.Eng. in Data Science (Integrated Master–Ph.D. Program, Master Stage)  
+  Sept. 2020 – Dec. 2022  
+  Advisor: Prof. Jianya Liu  
+  Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)  
+
+- Yunnan University, China  
+  B.Sc. in Mathematics and Applied Mathematics  
+  Sept. 2016 – Jun. 2020  
+
 ### Research Interests
-Graph Neural Networks, Topological Deep Learning, AI for Science
+
+Complex networks; natural language processing; computational social science; AI for Science
