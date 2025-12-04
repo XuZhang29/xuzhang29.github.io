@@ -1,4 +1,4 @@
-She is currently a postdoctoral researcher at the Institute of Data Science, Shandong University, China.
+She is currently a postdoctoral researcher at the Data Science Institute, Shandong University, China.
 
 ### Google Scholar
 [Google Scholar Profile - Xu Zhang](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
@@ -9,8 +9,8 @@ She is currently a postdoctoral researcher at the Institute of Data Science, Sha
 ### Education
 
 - Shandong University, China  
-  Ph.D. in Data Science
-  Sept. 2020 – Dec. 2025  
+  Ph.D. in Data Science  
+  Sept. 2020 – Dec. 2025   
   Advisor: Prof. Jianya Liu (Doctoral Stage) and Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) (Master Stage)
   
 - Yunnan University, China  
