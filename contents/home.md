@@ -4,7 +4,7 @@ She is currently a postdoctoral researcher at the Institute of Data Science, Sha
 [Google Scholar Profile - Xu Zhang](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
 
 ### Contact
-- **Email:** xuzhang[at]mail.sdu.edu.cn
+- **Email:** xuzhang[at]mail.sdu.edu.cn/xuzhang_01[at]foxmail.com
 
 ### Education
 
