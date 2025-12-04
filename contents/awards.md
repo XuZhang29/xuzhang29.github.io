@@ -1,6 +1,9 @@
 ### Awards
 
-- **China Scholarship Council (CSC) Scholarship**, 2023–2025  
-- **Doctoral Scholarship**, Shandong University, 2021–2023  
-- **Master’s Scholarship**, Shandong University, 2019–2020  
-- **Outstanding Graduate Student Award**, Shandong University, 2020  
+* **China International College Students Innovation and Entrepreneurship Competition, Enterprise Track**, National Silver Award and Shandong Provincial Gold Award (Project Leader), 2024
+* **9th Shandong “Internet+” College Students Innovation and Entrepreneurship Competition**, Shandong Provincial Silver Award (Project Leader)
+* **4th “Topsec Cup” National College Mathematics and Cryptography Challenge**, Second Prize, 2019
+* **Outstanding Graduate of Yunnan Province**
+* **First-Class Doctoral Academic Scholarship**, Shandong University
+* **First-Class Master’s Academic Scholarship**, Shandong University
+* **Outstanding Graduate Student Award**, Shandong University
