@@ -11,8 +11,7 @@ She is currently a postdoctoral researcher at the Institute of Data Science, Sha
 - Shandong University, China  
   Ph.D. in Data Science
   Sept. 2020 – Dec. 2025  
-  Advisor: Prof. Jianya Liu (Integrated Master–Ph.D. Program, Doctoral Stage)
-  Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) (Integrated Master–Ph.D. Program, Master Stage)
+  Advisor: Prof. Jianya Liu (Doctoral Stage) and Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) (Master Stage)
   
 - Yunnan University, China  
   B.Sc. in Mathematics and Applied Mathematics  
