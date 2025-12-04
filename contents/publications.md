@@ -2,6 +2,9 @@
 - <strong>Xu Zhang</strong>, Jin Xu and Cunquan Qu*. Priority individual identification for vaccination promotion through evolutionary game of mixed populations.
   <strong>Expert Systems with Applications (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.eswa.2023.120884)
 
+- Qinghua Wang, <strong>Xu Zhang</strong>, Lingyan Yang, Rui Shao, Bonan Wang, Fang Wang, Cunquan Qu*. Incorporating legal logic into deep learning: an intelligent approach to probation prediction.
+  <strong>Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (2025)</strong>. [[Paper]](https://doi.org/10.24963/ijcai.2025/868)
+  
 - Ming Zhang, <strong>Xu Zhang</strong>, Cunquan Qu*, Guanghui Wang and Xin Lu. The combination of social reward and punishment is conducive to the cooperation and heterogeneity of social relations.
   <strong>Chaos: An Interdisciplinary Journal of Nonlinear Science (2022)</strong>. [[Paper]](https://doi.org/10.1063/5.0102483)
 
