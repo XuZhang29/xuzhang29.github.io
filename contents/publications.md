@@ -21,6 +21,6 @@
 - <strong>Xu Zhang</strong>, Qinghua Wang, Fang Wang* and Cunquan Qu*. Logic-Guided Multistage Inference for Explainable Multidefendant Judgment Prediction.
   arXiv preprint (2026). [[Paper]](https://arxiv.org/abs/2601.12688)
 
-- Lingrui Chen, <strong>Xu Zhang</strong>, Xu Zhang, Fanpeng Song, Cunquan Qu*, Zhixin Liu. Convergence Analysis of Weighted Median Opinion Dynamics with Higher-Order Effects.
+- Lingrui Chen, <strong>Xu Zhang</strong>, Fanpeng Song, Cunquan Qu*, Zhixin Liu. Convergence Analysis of Weighted Median Opinion Dynamics with Higher-Order Effects.
   arXiv preprint (2026). [[Paper]](https://arxiv.org/abs/2601.06515)
 
