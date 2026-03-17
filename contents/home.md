@@ -4,7 +4,7 @@ I am currently a postdoctoral researcher at the Data Science Institute, Shandong
 [Google Scholar Profile - Xu Zhang](https://scholar.google.com/citations?user=L3oKQ_gAAAAJ&hl=zh-CN)
 
 ### Contact
-- **Email:** xuzhang[at]mail.sdu.edu.cn/xuzhang_01[at]foxmail.com
+- **Email:** xzhang[at]sdu.edu.cn/xuzhang_01[at]foxmail.com
 
 ### Education
 
