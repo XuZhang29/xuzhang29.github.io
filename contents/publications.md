@@ -14,7 +14,7 @@
 - Chenlu Ji, Mingang Gao*, <strong>Xu Zhang</strong>, Jiaxuan Li. A novel rescheduling algorithm for the airline recovery with flight priorities and airport capacity constraints.
   <strong>Asia-Pacific Journal of Operational Research (2021)</strong>. [[Paper]](https://doi.org/10.1142/S021759592140025X)
 
-- 赵梦阳, <strong>张旭</strong>, 曲存全. GraphCCL: 自注意力增强的因果图对比学习.
+- 赵梦阳, <strong>张旭</strong>, 曲存全*. GraphCCL: 自注意力增强的因果图对比学习.
   <strong>指挥与控制学报 (2025)</strong>.
 
 #### Working Papers
