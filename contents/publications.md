@@ -17,5 +17,10 @@
 - 赵梦阳, <strong>张旭</strong>, 曲存全. GraphCCL: 自注意力增强的因果图对比学习.
   <strong>指挥与控制学报 (2025)</strong>.
 
+#### Working Papers
+- <strong>Xu Zhang</strong>, Qinghua Wang, Fang Wang* and Cunquan Qu*. Logic-Guided Multistage Inference for Explainable Multidefendant Judgment Prediction.
+  arXiv preprint (2026). [[Paper]](https://arxiv.org/abs/2601.12688)
 
+- Lingrui Chen, <strong>Xu Zhang</strong>, Xu Zhang, Fanpeng Song, Cunquan Qu*, Zhixin Liu. Convergence Analysis of Weighted Median Opinion Dynamics with Higher-Order Effects.
+  arXiv preprint (2026). [[Paper]](https://arxiv.org/abs/2601.06515)
 
