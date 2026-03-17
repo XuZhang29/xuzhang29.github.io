@@ -1,4 +1,7 @@
 #### Published
+- <strong>Xu Zhang</strong>, Qinghua Wang, Fanpeng Song, Fang Wang and Cunquan Qu*. Modeling and Controlling Polymorphic Opinion Dynamics in Social Networks with Heterogeneous Sensitivities.
+  <strong>IEEE Transactions on Network Science and Engineering (2026)</strong>. [[Paper]](https://doi.org/10.1109/TNSE.2026.3654942)
+
 - <strong>Xu Zhang</strong>, Jin Xu and Cunquan Qu*. Priority individual identification for vaccination promotion through evolutionary game of mixed populations.
   <strong>Expert Systems with Applications (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.eswa.2023.120884)
 
